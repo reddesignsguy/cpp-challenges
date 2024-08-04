@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7542673F2C5F02B10002851B /* 2-max-depth-tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7542673D2C5F02B10002851B /* 2-max-depth-tree.cpp */; };
 		75E8D8B72C504830009C3DF2 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 75E8D8B62C504830009C3DF2 /* main.cpp */; };
 		75E8D8C02C504AE8009C3DF2 /* 1-test-driven-development.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 75E8D8BE2C504AE8009C3DF2 /* 1-test-driven-development.cpp */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7542673D2C5F02B10002851B /* 2-max-depth-tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2-max-depth-tree.cpp"; sourceTree = "<group>"; };
+		7542673E2C5F02B10002851B /* 2-max-depth-tree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "2-max-depth-tree.hpp"; sourceTree = "<group>"; };
 		75E8D8B32C504830009C3DF2 /* cpp-challenges */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "cpp-challenges"; sourceTree = BUILT_PRODUCTS_DIR; };
 		75E8D8B62C504830009C3DF2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		75E8D8BE2C504AE8009C3DF2 /* 1-test-driven-development.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "1-test-driven-development.cpp"; path = "1-test-driven-development/1-test-driven-development.cpp"; sourceTree = "<group>"; };
@@ -63,6 +66,8 @@
 				75E8D8B62C504830009C3DF2 /* main.cpp */,
 				75E8D8BE2C504AE8009C3DF2 /* 1-test-driven-development.cpp */,
 				75E8D8BF2C504AE8009C3DF2 /* 1-test-driven-development.hpp */,
+				7542673D2C5F02B10002851B /* 2-max-depth-tree.cpp */,
+				7542673E2C5F02B10002851B /* 2-max-depth-tree.hpp */,
 			);
 			path = "cpp-challenges";
 			sourceTree = "<group>";
@@ -124,6 +129,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7542673F2C5F02B10002851B /* 2-max-depth-tree.cpp in Sources */,
 				75E8D8B72C504830009C3DF2 /* main.cpp in Sources */,
 				75E8D8C02C504AE8009C3DF2 /* 1-test-driven-development.cpp in Sources */,
 			);
